@@ -1,4 +1,4 @@
-# Conga-board-game---AI
+# Artificial Intelligence : Conga Game
 Term Project : Game Playing through Adversarial Search
 I mplement an AI agent using a high-level programming language: the AI agent will employ adversarial search with alpha-beta pruning and heuristics-based evaluation function to play a two-person board game, Conga. Here is the official Conga board game webpage: http://www.congaspiel.de/
 
